@@ -1,0 +1,12 @@
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\bin\Debug\net6.0-windows\03-CapaDatos.deps.json
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\bin\Debug\net6.0-windows\03-CapaDatos.dll
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\bin\Debug\net6.0-windows\03-CapaDatos.pdb
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\03-CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\03-CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\03-CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\03-CapaDatos.AssemblyInfo.cs
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\03-CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\03-CapaDatos.dll
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\refint\03-CapaDatos.dll
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\03-CapaDatos.pdb
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\03-CapaDatos\obj\Debug\net6.0-windows\ref\03-CapaDatos.dll

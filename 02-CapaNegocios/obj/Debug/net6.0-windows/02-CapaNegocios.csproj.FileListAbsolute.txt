@@ -1,0 +1,15 @@
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\bin\Debug\net6.0-windows\02-CapaNegocios.deps.json
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\bin\Debug\net6.0-windows\02-CapaNegocios.dll
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\bin\Debug\net6.0-windows\02-CapaNegocios.pdb
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\bin\Debug\net6.0-windows\03-CapaDatos.dll
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\bin\Debug\net6.0-windows\03-CapaDatos.pdb
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\02-CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\02-CapaNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\02-CapaNegocios.AssemblyInfoInputs.cache
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\02-CapaNegocios.AssemblyInfo.cs
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\02-CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\02-CapaNegocios.csproj.CopyComplete
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\02-CapaNegocios.dll
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\refint\02-CapaNegocios.dll
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\02-CapaNegocios.pdb
+C:\Users\Daiana\Documents\GitHub\ProyectoLaboratorioGym-C6\02-CapaNegocios\obj\Debug\net6.0-windows\ref\02-CapaNegocios.dll
